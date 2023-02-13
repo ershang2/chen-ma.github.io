@@ -13,7 +13,7 @@ name                     : &name "Chen Ma"
 description              : &description "A robotics learner"
 url                      : https://chen-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Mingrui-Yu/mingrui-yu.github.io"
+repository               : "ershang2/chen-ma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingrui YU"
+  name             : "Chen Ma"
   avatar           : "me.jpg"
   bio              : "A robotics learner"
-  location         : # "Beijing, China"
+  location         : "Xi'an, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=021Lx3IAAAAJ&hl=en"
-  email            : "ymr20@mails.tsinghua.edu.cn"
+  email            : "ershang@stu.xjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
