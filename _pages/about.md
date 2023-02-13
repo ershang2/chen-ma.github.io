@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingrui YU / 于铭瑞 / Harry YU"
+title: "Chen Ma / 马晨"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests include robotic manipulation, especially for deformable objects.
 
-Email: [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn)  
+Email: [ershang@stu.xjtu.edu.cn](mailto:ershang@stu.xjtu.edu.cn)  
 
 ***
 
@@ -18,11 +18,11 @@ Education
 ======
 **Department of Automation, Tsinghua University (Beijing, China)** &emsp; *2020 - present*  
 Ph.D. student in Control Science and Engineering  
-Major GPA: 4.0/4.0
+Major GPA: /4.0
 
-**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *2016 - 2020*  
+**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *2018 - 2022*  
 B.Eng. in Automation (Honors Engineering Program)  
-GPA: 4.09/4.3, Ranking: 1/35
+GPA: /4.3, Ranking: 3/25
 
 ***
 
