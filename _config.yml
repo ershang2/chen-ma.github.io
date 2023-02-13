@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen Ma"
-  avatar           : "me.jpg"
+  avatar           : #"me.jpg"
   bio              : "A robotics learner"
   location         : "Xi'an, China"
   employer         :
