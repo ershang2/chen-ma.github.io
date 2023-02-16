@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## Global Model Learning for Large Deformation Control of Deformable Linear Objects
+<!-- ## Global Model Learning for Large Deformation Control of Deformable Linear Objects
 
 * 02/2021 - 08/2022
 * Publication: one paper in IEEE T-RO, one paper in IEEE ICRA
@@ -107,7 +107,7 @@ phase duration.
 * Proposed a phase sensitive neural network structure based on DDPG model.
 * Developed some interesting training techniques.
 
-[[Paper](https://ieeexplore.ieee.org/document/9327396)]
+[[Paper](https://ieeexplore.ieee.org/document/9327396)] -->
 
 ## Image processing in color+depth based 3D vision systems
 
