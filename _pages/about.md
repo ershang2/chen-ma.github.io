@@ -36,7 +36,7 @@ Topic: Reinforment learning for intelligent transportation system
 Awards & Honors
 ======
 * 西安交大三等奖学金 (Third-class Scholarship at XJTU) &emsp; *2019*  
-* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
+* COMAP Mathematical Contest in Modeling, Meritorious Winner [[Certificate](https://ershang2.github.io/files/2113534.pdf)] &emsp; *2021*  
 
 ***
 
