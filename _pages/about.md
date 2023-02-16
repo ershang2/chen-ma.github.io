@@ -16,13 +16,12 @@ Email: [ershang@stu.xjtu.edu.cn](mailto:ershang@stu.xjtu.edu.cn)
 
 Education
 ======
-**Department of Automation, Tsinghua University (Beijing, China)** &emsp; *2020 - present*  
-Ph.D. student in Control Science and Engineering  
-Major GPA: /4.0
+**Department of Automation, Xi'an Jiaotong University (Xi'an, China)** &emsp; *2022 - present*  
+Master student in Control Science and Engineering  
 
 **Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *2018 - 2022*  
 B.Eng. in Automation (Honors Engineering Program)  
-GPA: /4.3, Ranking: 3/25
+GPA: 3.93/4.3, Ranking: 3/25
 
 ***
 
@@ -36,14 +35,8 @@ Topic: Reinforment learning for intelligent transportation system
 
 Awards & Honors
 ======
-* 清华校友-李衍达励学基金 (Tsinghua Li-Yanda Scholarship) &emsp; *2022*  
-* 2nd place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022*  
-* 西安交大优秀毕业生 (Outstanding graduate at XJTU) &emsp; *2020*   
-* 西安交大一等奖学金 (First-class Scholarship at XJTU) &emsp; *2019*  
-* 国家奖学金 (China National Scholarship) &emsp; *2018*  
+* 西安交大三等奖学金 (Third-class Scholarship at XJTU) &emsp; *2019*  
 * COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
-* 思源奖学金 (Siyuan Scholarship) &emsp; *2017*  
-* 西安交大优秀学生 (Outstanding Student at XJTU) &emsp; *2017/2018/2019*
 
 ***
 
