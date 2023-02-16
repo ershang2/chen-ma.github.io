@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chen Ma. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2022. I'm now pursuing the master degree at the Department of Automation, Xi'an Jiaotong University, under the supervision of [Prof. Chao Shen](http://gr.xjtu.edu.cn/en/web/cshen/english) and Prof. Xiaohong Guan. My research interests include autonomous driving security and AI security, especially for visual Perception.
+I am Chen Ma. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2022. I'm now pursuing the master degree at the Department of Automation, Xi'an Jiaotong University, under the supervision of [Prof. Chao Shen](http://gr.xjtu.edu.cn/en/web/cshen/english) and Prof. Xiaohong Guan(https://ieeexplore.ieee.org/author/37275635600). My research interests include autonomous driving security and AI security, especially for visual Perception.
 
 Email: [ershang@stu.xjtu.edu.cn](mailto:ershang@stu.xjtu.edu.cn)  
 
