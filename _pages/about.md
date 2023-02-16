@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests include robotic manipulation, especially for deformable objects.
+I am Chen Ma, and my research interests are autonomous driving security and AI security. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2022. I'm now pursuing the master degree at the Department of Automation, Xi'an Jiaotong University, under the supervision of [Prof. Chao Shen and Prof. Xiaohong Guan](https://sites.google.com/view/homepageoflixiang/home). My research interests include autonomous driving security and AI security, especially for visual Perception.
 
 Email: [ershang@stu.xjtu.edu.cn](mailto:ershang@stu.xjtu.edu.cn)  
 
